@@ -1,2 +1,2 @@
 # essai
-un essai pour apprendre
+un essai pour apprendre GitHub.
